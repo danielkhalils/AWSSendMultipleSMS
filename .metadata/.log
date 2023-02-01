@@ -1,0 +1,404 @@
+!SESSION 2022-12-12 15:11:06.172 -----------------------------------------------
+eclipse.buildId=4.16.1.202210240748
+java.version=19.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2022-12-12 15:11:21.790
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-12-12 15:11:21.790
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-12-12 15:11:21.790
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-12-12 15:11:24.291
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\danie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2022-12-13 08:22:35.456 -----------------------------------------------
+eclipse.buildId=4.16.1.202210240748
+java.version=19.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2022-12-13 08:22:45.112
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-12-13 08:22:45.112
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-12-13 08:22:45.112
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-12-13 08:22:47.024
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\danie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2022-12-13 08:25:14.648 -----------------------------------------------
+eclipse.buildId=4.16.1.202210240748
+java.version=19.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2022-12-13 08:25:17.833
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-12-13 08:25:17.833
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-12-13 08:25:17.833
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-12-13 08:25:19.376
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\danie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-12-13 08:25:55.079
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2022-12-13 08:25:55.079
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.079
+!MESSAGE Spring Boot Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.079
+!MESSAGE Spring Tool Suite 4 Main Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.079
+!MESSAGE BOSH Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.079
+!MESSAGE Spring XML Namespace Support will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.079
+!MESSAGE Cloud Foundry Manifest Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.079
+!MESSAGE Concourse Pipeline Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.079
+!MESSAGE Spring IDE Boot Microservices Dash will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-12-13 08:25:55.079
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE Software being installed: Spring Tool Suite 4 Main Feature Developer Resources 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.source.feature.group 4.17.0.202212060857)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE Software currently installed: Spring Tool Suite 4 Main Feature 4.16.1.202210240748 (org.springframework.boot.ide.main.feature.feature.group 4.16.1.202210240748)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.079
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE Boot 4.17.0.202212060857 (org.springframework.ide.eclipse.boot 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE Boot 4.16.1.202210240748 (org.springframework.ide.eclipse.boot 4.16.1.202210240748)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.079
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE From: Spring Tool Suite 4 Main Feature 4.16.1.202210240748 (org.springframework.boot.ide.main.feature.feature.group 4.16.1.202210240748)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.ide.eclipse.boot [4.16.1.202210240748,4.16.1.202210240748]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.079
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE From: Spring Tool Suite 4 Main Feature 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.feature.group 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.ide.eclipse.boot [4.17.0.202212060857,4.17.0.202212060857]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.079
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE From: Spring Tool Suite 4 Main Feature Developer Resources 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.source.feature.group 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.079
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.boot.ide.main.feature.feature.group [4.17.0.202212060857,4.17.0.202212060857]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-12-13 08:25:55.089
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2022-12-13 08:25:55.089
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.089
+!MESSAGE Spring Boot Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.089
+!MESSAGE Spring Tool Suite 4 Main Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.089
+!MESSAGE BOSH Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.089
+!MESSAGE Spring XML Namespace Support will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.089
+!MESSAGE Cloud Foundry Manifest Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.089
+!MESSAGE Concourse Pipeline Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.089
+!MESSAGE Spring IDE Boot Microservices Dash will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-12-13 08:25:55.089
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE Software being installed: Spring Tool Suite 4 Main Feature Developer Resources 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.source.feature.group 4.17.0.202212060857)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE Software currently installed: Spring Tool Suite 4 Main Feature 4.16.1.202210240748 (org.springframework.boot.ide.main.feature.feature.group 4.16.1.202210240748)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.089
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE Boot 4.17.0.202212060857 (org.springframework.ide.eclipse.boot 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE Boot 4.16.1.202210240748 (org.springframework.ide.eclipse.boot 4.16.1.202210240748)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.089
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE From: Spring Tool Suite 4 Main Feature 4.16.1.202210240748 (org.springframework.boot.ide.main.feature.feature.group 4.16.1.202210240748)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.ide.eclipse.boot [4.16.1.202210240748,4.16.1.202210240748]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.089
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE From: Spring Tool Suite 4 Main Feature 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.feature.group 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.ide.eclipse.boot [4.17.0.202212060857,4.17.0.202212060857]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.089
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE From: Spring Tool Suite 4 Main Feature Developer Resources 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.source.feature.group 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.089
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.boot.ide.main.feature.feature.group [4.17.0.202212060857,4.17.0.202212060857]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-12-13 08:25:55.167
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2022-12-13 08:25:55.167
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.167
+!MESSAGE Spring Boot Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.168
+!MESSAGE Spring Tool Suite 4 Main Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.168
+!MESSAGE BOSH Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.168
+!MESSAGE Spring XML Namespace Support will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.168
+!MESSAGE Cloud Foundry Manifest Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.168
+!MESSAGE Concourse Pipeline Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.168
+!MESSAGE Spring IDE Boot Microservices Dash will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-12-13 08:25:55.168
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE Software being installed: Spring Tool Suite 4 Main Feature Developer Resources 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.source.feature.group 4.17.0.202212060857)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE Software currently installed: Spring Tool Suite 4 Main Feature 4.16.1.202210240748 (org.springframework.boot.ide.main.feature.feature.group 4.16.1.202210240748)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.168
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE Boot 4.17.0.202212060857 (org.springframework.ide.eclipse.boot 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE Boot 4.16.1.202210240748 (org.springframework.ide.eclipse.boot 4.16.1.202210240748)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.168
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE From: Spring Tool Suite 4 Main Feature 4.16.1.202210240748 (org.springframework.boot.ide.main.feature.feature.group 4.16.1.202210240748)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.ide.eclipse.boot [4.16.1.202210240748,4.16.1.202210240748]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.168
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE From: Spring Tool Suite 4 Main Feature 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.feature.group 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.ide.eclipse.boot [4.17.0.202212060857,4.17.0.202212060857]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.168
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE From: Spring Tool Suite 4 Main Feature Developer Resources 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.source.feature.group 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.168
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.boot.ide.main.feature.feature.group [4.17.0.202212060857,4.17.0.202212060857]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2022-12-13 08:25:55.169
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2022-12-13 08:25:55.169
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.169
+!MESSAGE Spring Boot Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.169
+!MESSAGE Spring Tool Suite 4 Main Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.169
+!MESSAGE BOSH Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.169
+!MESSAGE Spring XML Namespace Support will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.169
+!MESSAGE Cloud Foundry Manifest Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.169
+!MESSAGE Concourse Pipeline Language Server Feature will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2022-12-13 08:25:55.169
+!MESSAGE Spring IDE Boot Microservices Dash will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2022-12-13 08:25:55.169
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE Software being installed: Spring Tool Suite 4 Main Feature Developer Resources 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.source.feature.group 4.17.0.202212060857)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE Software currently installed: Spring Tool Suite 4 Main Feature 4.16.1.202210240748 (org.springframework.boot.ide.main.feature.feature.group 4.16.1.202210240748)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.169
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE Boot 4.17.0.202212060857 (org.springframework.ide.eclipse.boot 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE Boot 4.16.1.202210240748 (org.springframework.ide.eclipse.boot 4.16.1.202210240748)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.169
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE From: Spring Tool Suite 4 Main Feature 4.16.1.202210240748 (org.springframework.boot.ide.main.feature.feature.group 4.16.1.202210240748)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.ide.eclipse.boot [4.16.1.202210240748,4.16.1.202210240748]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.169
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE From: Spring Tool Suite 4 Main Feature 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.feature.group 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.ide.eclipse.boot [4.17.0.202212060857,4.17.0.202212060857]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2022-12-13 08:25:55.169
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE From: Spring Tool Suite 4 Main Feature Developer Resources 4.17.0.202212060857 (org.springframework.boot.ide.main.feature.source.feature.group 4.17.0.202212060857)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2022-12-13 08:25:55.169
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.springframework.boot.ide.main.feature.feature.group [4.17.0.202212060857,4.17.0.202212060857]
+!SESSION 2022-12-13 08:28:07.440 -----------------------------------------------
+eclipse.buildId=4.16.1.202210240748
+java.version=19.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2022-12-13 08:31:07.779
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-12-13 08:31:07.779
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-12-13 08:31:07.779
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-12-13 08:31:09.729
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\danie'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
